@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
+| [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
