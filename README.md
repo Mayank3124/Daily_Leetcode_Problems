@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
 | [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
+| [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
