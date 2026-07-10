@@ -5,13 +5,12 @@ class Solution {
 
         for(int i : nums){
             map.put(i, map.getOrDefault(i, 0)+1);
-            if(map.get(i)>(nums.length/3) && !list.contains(i)) list.add(i);
         }
-        // for(int k : map.keySet()){
-        //     if(map.get(k)>(nums.length/3)){
-        //         list.add(k);
-        //     }
-        // }
+        for(int k : map.keySet()){
+            if(map.get(k)>(nums.length/3)){
+                list.add(k);
+            }
+        }
         return list;
     }
 }
