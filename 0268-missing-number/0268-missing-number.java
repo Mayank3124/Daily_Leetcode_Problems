@@ -1,14 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        TreeSet<Integer> set = new TreeSet<>();
-        for(int i : nums){
-            set.add(i);
+        int sum = 0;
+        int max = 0;
+        for(int i = 0; i < nums.length; i++){
+            sum = sum + nums[i];
+            max= Math.max(max,nums[i]);
         }
-        int i = 0;
-        for(int k : set){
-            if(i!=k) return i;
-            i++;
-        }
-        return i;
+        if(max < nums.length) return max + 1;
+        return (max*(max+1)/2)-sum;
     }
 }
