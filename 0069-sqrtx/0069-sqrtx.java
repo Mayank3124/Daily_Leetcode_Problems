@@ -11,7 +11,7 @@ class Solution {
             else if(mid*mid < x) left=mid;
             
             else right = mid;
-            System.out.println(mid);
+            
         }
         return (int)left;
     }
