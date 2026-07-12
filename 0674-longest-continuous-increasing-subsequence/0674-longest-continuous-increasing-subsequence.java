@@ -5,14 +5,11 @@ class Solution {
         for(int i = 0; i < nums.length-1; i++){
             if(nums[i]<nums[i+1]){
                 count++;
-            }else{
                 max = Math.max(max, count);
+            }else{   
                 count=1;
             }
-            System.out.println(count);
-
         }
-        
-        return Math.max(max,count);
+        return max;
     }
 }
