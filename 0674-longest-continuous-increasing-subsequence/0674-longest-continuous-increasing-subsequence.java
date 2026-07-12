@@ -12,7 +12,7 @@ class Solution {
             System.out.println(count);
 
         }
-        max = Math.max(max, count);
-        return max;
+        
+        return Math.max(max,count);
     }
 }
