@@ -79,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -120,6 +121,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
