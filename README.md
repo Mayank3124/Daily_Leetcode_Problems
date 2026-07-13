@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0135-candy) |
 ## Math
 |  |
 | ------- |
