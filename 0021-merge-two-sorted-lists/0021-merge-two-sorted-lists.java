@@ -13,7 +13,7 @@ class Solution {
         ListNode head1 = list1;
         ListNode head2 = list2;
         
-        ListNode head3 = new ListNode(-1);
+        ListNode head3 = new ListNode();
         ListNode temp = head3;
         while(head1!=null && head2!=null){
             if(head1.val <= head2.val){
