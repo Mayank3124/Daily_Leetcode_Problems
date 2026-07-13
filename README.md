@@ -123,6 +123,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
