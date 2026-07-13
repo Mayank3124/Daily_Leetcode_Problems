@@ -81,6 +81,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -123,6 +124,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
