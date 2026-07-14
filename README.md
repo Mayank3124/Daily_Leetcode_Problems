@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
