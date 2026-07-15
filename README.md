@@ -45,6 +45,7 @@
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0135-candy) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
