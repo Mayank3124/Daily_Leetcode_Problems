@@ -28,7 +28,7 @@ class Solution {
             carry = value / 10;
         }
 
-        System.out.println(carry);
+        
         if(head1==null){
             while(head2!=null){
                 value = (head2.val + carry);
