@@ -1,20 +1,15 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
-        
-        int totalSum = 0;
+        int dup = 0;
+        int sum = 0;
         for(int i : nums){
-            totalSum += i;
-            
+            sum += i;
+            if(set.contains(i)) dup = i;
             set.add(i);
         }
-        int sum = 0;
-        for(int i : set){
-            sum += i;
-        }
-        int dup = totalSum-sum;
         int n = nums.length;
-        int miss = (n*(n+1)/2)-sum;
+        int miss = (n*(n+1)/2)+dup-sum;
         
         return new int[]{dup,miss};
     }
