@@ -10,13 +10,7 @@ class Solution {
         if(totalHours<=h) return true;
         return false;
     }
-    public int max(int[] arr){
-        int m = 0;
-        for(int i : arr){
-            m = Math.max(m, i);
-        }
-        return m;
-    }
+    
     public int minEatingSpeed(int[] piles, int h) {
         int l = 1;
         int r = Integer.MAX_VALUE;
