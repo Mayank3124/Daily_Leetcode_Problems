@@ -21,6 +21,7 @@
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -83,6 +84,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
+| [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
