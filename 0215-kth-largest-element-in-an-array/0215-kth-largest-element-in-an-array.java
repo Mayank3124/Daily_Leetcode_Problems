@@ -3,8 +3,8 @@ class Solution {
         PriorityQueue<Integer> Q = new PriorityQueue<>();
 
         for(int i : nums){
-            Q.add(i);
-            if(Q.size()>k) Q.remove();
+            Q.offer(i);
+            if(Q.size()>k) Q.poll();
         }
 
         return Q.peek();
