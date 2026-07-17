@@ -29,6 +29,7 @@
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
