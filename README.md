@@ -25,6 +25,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
