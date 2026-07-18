@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
@@ -118,6 +119,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -183,6 +185,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
