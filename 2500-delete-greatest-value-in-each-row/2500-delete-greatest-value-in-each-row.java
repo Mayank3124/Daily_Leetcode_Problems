@@ -1,19 +1,22 @@
 class Solution {
     public int deleteGreatestValue(int[][] grid) {
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        // PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
         int m = grid.length;
         int n = grid[0].length;
 
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                pq.offer(grid[i][j]);
+        // for(int i = 0; i < m; i++){
+        //     for(int j = 0; j < n; j++){
+        //         pq.offer(grid[i][j]);
 
-            }
-            for(int j = 0; j < n; j++){
-                grid[i][j] = pq.poll(); 
-            }
+        //     }
+        //     for(int j = 0; j < n; j++){
+        //         grid[i][j] = pq.poll(); 
+        //     }
+        // }
+        for(int[] arr : grid){
+            Arrays.sort(arr);
         }
 
         int ans = 0;
@@ -25,7 +28,7 @@ class Solution {
             }
             ans += max;
         }
-        
+
         return ans;
     }
 }
