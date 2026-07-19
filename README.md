@@ -95,6 +95,7 @@
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -129,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -203,6 +205,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
