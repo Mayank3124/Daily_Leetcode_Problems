@@ -38,6 +38,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
