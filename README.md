@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -67,6 +68,7 @@
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
@@ -154,6 +156,7 @@
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +177,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
