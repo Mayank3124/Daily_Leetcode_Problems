@@ -63,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
@@ -93,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
