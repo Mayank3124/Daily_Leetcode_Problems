@@ -39,6 +39,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0367-valid-perfect-square](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -142,6 +144,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
