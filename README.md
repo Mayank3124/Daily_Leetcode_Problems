@@ -97,6 +97,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -109,6 +110,7 @@
 | [0162-find-peak-element](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
