@@ -13,17 +13,12 @@ class Solution {
         }
         for(int i = 0; i < k; i++){
             int idx = pq.poll();
-            nums[idx] *= multiplier;  
-            pq.offer(idx);
+            nums[idx] *= multiplier;
+            pq.offer(idx);  
+            
         }
 
-        // int arr[] = new int[nums.length];
         
-        // while(!pq.isEmpty()){
-        //     int x[] = pq.poll();
-        //     int idx = x[1];
-        //     arr[idx] = x[0];
-        // }
         return nums;
     }
 }
