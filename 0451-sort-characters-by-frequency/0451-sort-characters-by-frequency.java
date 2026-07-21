@@ -12,7 +12,8 @@ class Solution {
         StringBuilder sb = new StringBuilder("");
         while(!pq.isEmpty()){
             char c = pq.poll();
-            for(int i = 0; i < map.get(c); i++){
+            int count = map.get(c);
+            while(count-- >0){
                 sb.append(c);
             }
         }
