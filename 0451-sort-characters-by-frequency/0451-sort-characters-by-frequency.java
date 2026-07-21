@@ -7,9 +7,8 @@ class Solution {
         for(int i = 0; i < s.length(); i++ ){
             map.put(s.charAt(i), map.getOrDefault(s.charAt(i),0)+1);
         }
-        for(char k : map.keySet()){
-            pq.offer(k);
-        }
+        pq.addAll(map.keySet());
+        
         StringBuilder sb = new StringBuilder("");
         while(!pq.isEmpty()){
             char c = pq.poll();
