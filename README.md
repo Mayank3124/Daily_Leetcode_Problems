@@ -27,6 +27,7 @@
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
@@ -130,6 +131,7 @@
 | [0367-valid-perfect-square](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
@@ -138,6 +140,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -182,6 +186,7 @@
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -251,6 +256,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
