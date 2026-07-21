@@ -4,8 +4,8 @@ class Solution {
         PriorityQueue<Character> pq = new PriorityQueue<>(
             (a,b) -> map.get(b) - map.get(a)
         );
-        for(int i = 0; i < s.length(); i++ ){
-            map.put(s.charAt(i), map.getOrDefault(s.charAt(i),0)+1);
+        for(char c : s.toCharArray()){
+            map.put(c, map.getOrDefault(c,0)+1);
         }
         pq.addAll(map.keySet());
         
