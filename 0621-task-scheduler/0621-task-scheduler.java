@@ -19,10 +19,6 @@ class Solution {
         }
         
         int ans = (max-1)*(n+1) + count;
-
-        if(tasks.length > ans){
-            return tasks.length;
-        }
-        return ans;
+        return Math.max(ans, tasks.length);
     }
 }
