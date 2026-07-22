@@ -5,20 +5,16 @@ class Solution {
             map.put(ch, map.getOrDefault(ch,0)+1);
         }
         int length = 0;
-        int mid = 0;
+        boolean odd = false;
         for(char ch : map.keySet()){
             int k = map.get(ch);
-            if(k%2==0){
-                length += k;
-                map.put(ch,0);
-            } else {
-                length += k - 1;
-                map.put(ch,1);
-                mid = 1;
-
+            if(k%2!=0){
+                odd = true;
+                map.put(ch,k-1);
             }
+            length += map.get(ch); 
         }
-        if(mid==1) length++;
+        if(odd) length++;
         return length;
     }
 }
