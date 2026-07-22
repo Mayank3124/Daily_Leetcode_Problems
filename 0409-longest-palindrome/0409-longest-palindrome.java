@@ -10,9 +10,9 @@ class Solution {
             int k = map.get(ch);
             if(k%2!=0){
                 odd = true;
-                map.put(ch,k-1);
+                k--;
             }
-            length += map.get(ch); 
+            length += k; 
         }
         if(odd) length++;
         return length;
