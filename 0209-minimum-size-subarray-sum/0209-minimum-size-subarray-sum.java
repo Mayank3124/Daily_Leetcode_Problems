@@ -17,16 +17,16 @@ class Solution {
         int l = 1;
         int r = nums.length;
         int min = 0;
-        while(l < r){
+        while(l <= r){
             int mid = l + (r - l)/2;
             if(isGreaterSum(mid,nums,target)){
                 min = mid;
-                r = mid;
+                r = mid-1;
             } else {
                 l = mid + 1;
             }
         }
-        if(min==0&&isGreaterSum(nums.length,nums,target)) return nums.length;
+        
         return min;
    }
 }
