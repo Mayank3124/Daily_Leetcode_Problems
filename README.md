@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
@@ -135,6 +136,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
@@ -149,6 +151,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -308,4 +311,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
