@@ -145,6 +145,7 @@
 | [0278-first-bad-version](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Prefix Sum
 |  |
 | ------- |
