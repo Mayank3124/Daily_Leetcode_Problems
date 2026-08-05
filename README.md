@@ -35,6 +35,7 @@
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -149,6 +150,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
