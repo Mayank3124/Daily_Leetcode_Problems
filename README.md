@@ -246,6 +246,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -259,6 +260,7 @@
 | [0002-add-two-numbers](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
@@ -285,6 +287,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -345,4 +348,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
