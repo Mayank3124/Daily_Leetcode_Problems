@@ -13,28 +13,21 @@ class Solution {
         PriorityQueue<ListNode>  pq = new PriorityQueue<>(
             (a, b) -> Integer.compare(a.val, b.val)
         );
-        
         for(ListNode node : lists){
             if(node != null){
                 pq.offer(node);
             }
         }
-
         ListNode Dummy = new ListNode();
         ListNode temp = Dummy;
-
         while(!pq.isEmpty()){
             ListNode node = pq.poll();
-
+            temp.next = node;
+            temp = temp.next;
             if(node.next!=null){
                 pq.offer(node.next);
-
             }
-                        temp.next = node;
-            temp = temp.next;
         }
-        
         return Dummy.next;
-
     }
 }
