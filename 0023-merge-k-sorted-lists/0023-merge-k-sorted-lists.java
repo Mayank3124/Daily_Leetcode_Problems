@@ -25,11 +25,13 @@ class Solution {
 
         while(!pq.isEmpty()){
             ListNode node = pq.poll();
-            temp.next = node;
-            temp = temp.next;
+
             if(node.next!=null){
                 pq.offer(node.next);
+
             }
+                        temp.next = node;
+            temp = temp.next;
         }
         
         return Dummy.next;
