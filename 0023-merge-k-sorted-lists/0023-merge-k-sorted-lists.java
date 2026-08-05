@@ -20,7 +20,7 @@ class Solution {
             }
         }
 
-        ListNode Dummy = new ListNode(-1);
+        ListNode Dummy = new ListNode();
         ListNode temp = Dummy;
 
         while(!pq.isEmpty()){
