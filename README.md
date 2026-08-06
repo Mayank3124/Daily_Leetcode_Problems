@@ -29,6 +29,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
@@ -72,6 +73,7 @@
 | [0409-longest-palindrome](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
@@ -167,6 +169,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
@@ -214,6 +217,7 @@
 | [0389-find-the-difference](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
@@ -235,6 +239,7 @@
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
