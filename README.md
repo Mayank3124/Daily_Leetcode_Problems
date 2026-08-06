@@ -133,6 +133,7 @@
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -358,4 +359,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
