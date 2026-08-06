@@ -1,16 +1,17 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        for(int i = n; i < n+t; i++ ){
-            int temp = i;
+        while(true){
+            int temp = n;
             int pro = 1;
             while(temp!=0){
                 pro *= temp%10;
                 if(pro%t==0){
-                    return i;
+                    return n;
                 }
                 temp /= 10;
             }
+            n++;
         }
-        return n+t;
+    
     }
 }
