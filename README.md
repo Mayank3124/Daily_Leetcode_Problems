@@ -104,6 +104,7 @@
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Pigeonhole Principle
 |  |
