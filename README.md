@@ -45,6 +45,7 @@
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -354,6 +355,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
