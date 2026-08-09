@@ -142,6 +142,7 @@
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -365,6 +366,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 ## Pigeonhole Principle
 |  |
 | ------- |
