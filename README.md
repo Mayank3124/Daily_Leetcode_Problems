@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
@@ -191,6 +192,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -226,6 +228,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
