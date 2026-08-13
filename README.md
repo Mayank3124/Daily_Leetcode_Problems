@@ -65,6 +65,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
