@@ -9,13 +9,9 @@ class Solution {
             if(m > 0 && a.charAt(--m)=='1') sum++;
             if(n > 0 && b.charAt(--n)=='1') sum++;
 
-            if(sum==0 || sum==2){
-                str = 0 + str;
-            } else {
-                str = 1 + str;
-            }
-            if(sum < 2) carry = 0;
-            else carry = 1;
+            str = sum%2 + str;
+            carry = sum/2 ;
+            
 
         }
         return str;
