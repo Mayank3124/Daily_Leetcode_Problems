@@ -7,7 +7,7 @@ class Solution {
             while(i < nums.length-1 && nums[i]+1 == nums[i+1]){
                 i++;
             }
-            if(start == nums[i]) list.add(Integer.toString(start));
+            if(start == nums[i]) list.add(""+start);
             else list.add(start+"->"+nums[i]);
         }
         return list;
