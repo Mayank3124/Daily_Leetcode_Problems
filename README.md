@@ -45,6 +45,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -92,6 +93,7 @@
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
