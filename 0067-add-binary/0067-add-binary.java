@@ -5,12 +5,12 @@ class Solution {
         int carry = 0;
         String str = "";
         while(carry != 0 || m != 0 || n != 0 ){
-            int sum = carry;
-            if(m > 0 && a.charAt(--m)=='1') sum++;
-            if(n > 0 && b.charAt(--n)=='1') sum++;
+            
+            if(m > 0 && a.charAt(--m)=='1') carry++;
+            if(n > 0 && b.charAt(--n)=='1') carry++;
 
-            str = sum%2 + str;
-            carry = sum/2 ;
+            str = carry%2 + str;
+            carry = carry/2 ;
             
 
         }
