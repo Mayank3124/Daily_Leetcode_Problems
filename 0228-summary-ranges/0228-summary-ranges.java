@@ -8,7 +8,7 @@ class Solution {
                 i++;
             }
             if(start == nums[i]) list.add(Integer.toString(start));
-            else list.add(Integer.toString(start)+"->"+Integer.toString(nums[i]));
+            else list.add(start+"->"+nums[i]);
         }
         return list;
     }
