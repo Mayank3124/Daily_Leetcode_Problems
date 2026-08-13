@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
@@ -329,6 +330,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Number Theory
 |  |
