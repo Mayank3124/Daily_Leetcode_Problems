@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
