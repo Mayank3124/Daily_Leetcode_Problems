@@ -8,6 +8,7 @@ class Solution {
     }
     public int minSubArrayLen(int target, int[] nums) {
         for(int i = 1; i < nums.length; i++){
+            if(nums[i]>=target) return 1;
             nums[i] = nums[i] + nums[i-1];
         }
         int l = 1;
