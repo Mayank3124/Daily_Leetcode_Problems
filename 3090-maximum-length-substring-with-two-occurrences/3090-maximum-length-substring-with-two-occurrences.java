@@ -14,12 +14,13 @@ class Solution {
                 }
                 map.put(s.charAt(l),map.get(s.charAt(l))-1);
                 l++;
+                length--;
                 
 
-            }else {
-                length++;
-                max = Math.max(length,max);
             }
+            length++;
+            max = Math.max(length,max);
+            
         }
         return max;
     }
