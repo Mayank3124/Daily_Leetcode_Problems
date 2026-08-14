@@ -1,22 +1,19 @@
 class Solution {
     public boolean isGreaterSum(int k, int[] nums, int target){
-        int sum = 0;
-        for(int i = 0; i < nums.length; i++){
-            sum += nums[i];
-            if(i >= k){
-                sum -= nums[i-k];
-            }
-            if(sum >= target){
-                return true;
-            }
-
+        if(nums[k-1] >= target ) return true;
+        for(int i = k; i < nums.length; i++){
+            if(nums[i]-nums[i-k] >= target) return true;
         }
         return false;
     }
     public int minSubArrayLen(int target, int[] nums) {
+        for(int i = 1; i < nums.length; i++){
+            nums[i] = nums[i] + nums[i-1];
+        }
         int l = 1;
         int r = nums.length;
         int min = 0;
+
         while(l <= r){
             int mid = l + (r - l)/2;
             if(isGreaterSum(mid,nums,target)){
