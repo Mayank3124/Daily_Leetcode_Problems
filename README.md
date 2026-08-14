@@ -154,6 +154,7 @@
 | [0067-add-binary](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0367-valid-perfect-square) |
