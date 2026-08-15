@@ -122,6 +122,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -134,6 +135,7 @@
 | [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -443,4 +445,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
