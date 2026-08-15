@@ -127,6 +127,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3360-stone-removal-game) |
 ## Matrix
