@@ -31,6 +31,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -90,6 +91,7 @@
 | [0409-longest-palindrome](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
@@ -129,12 +131,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 ## Greedy
 |  |
