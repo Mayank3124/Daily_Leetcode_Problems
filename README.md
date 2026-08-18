@@ -458,23 +458,27 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
