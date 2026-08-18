@@ -25,12 +25,12 @@ class Solution {
         q.add(root);
 
         while(!q.isEmpty()){
-            Double avg = 0.0;
+            long sum = 0;
             int size = q.size();
 
             for(int i = 0; i < size; i++ ){
                 TreeNode curr = q.remove();
-                avg += curr.val;
+                sum += curr.val;
 
                 if(curr.left != null){
                     q.add(curr.left);
@@ -40,8 +40,8 @@ class Solution {
                 }
 
             }
-            avg = avg/size;
-            List.add(avg);
+            
+            List.add((double)sum/size);
         }
         return List;
     }
