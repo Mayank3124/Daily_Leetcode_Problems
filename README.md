@@ -71,6 +71,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -246,6 +247,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3360-stone-removal-game) |
