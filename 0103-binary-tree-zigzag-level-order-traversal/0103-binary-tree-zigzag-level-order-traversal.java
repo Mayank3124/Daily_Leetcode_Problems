@@ -24,16 +24,19 @@ class Solution {
         q.add(root);
 
         while(!q.isEmpty()){
+            
             List<Integer> level = new ArrayList<>();
             int size = q.size();
+
             for(int i = 0; i < size; i++){
+
                 TreeNode curr = q.remove();
-                if(list.size()%2!=0) level.add(0,curr.val);
-                else level.add(curr.val);
+                level.add(curr.val);
 
                 if(curr.left != null) q.add(curr.left);
                 if(curr.right != null) q.add(curr.right);
             }
+            if(list.size()%2!=0) Collections.reverse(level);
             list.add(level);
         }
         return list;
