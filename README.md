@@ -481,6 +481,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
