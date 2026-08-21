@@ -119,6 +119,7 @@
 | [0020-valid-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
