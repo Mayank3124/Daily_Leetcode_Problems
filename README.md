@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0205-isomorphic-strings) |
@@ -254,6 +256,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
