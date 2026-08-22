@@ -488,6 +488,7 @@
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -521,6 +522,7 @@
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -537,6 +539,7 @@
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0872-leaf-similar-trees) |
 ## Backtracking
 |  |
 | ------- |
