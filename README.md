@@ -486,6 +486,7 @@
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -500,6 +501,7 @@
 | [0112-path-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -517,6 +519,7 @@
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -532,6 +535,7 @@
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Backtracking
 |  |
