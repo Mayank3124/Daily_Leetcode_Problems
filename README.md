@@ -493,6 +493,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -532,6 +533,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -552,6 +554,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0872-leaf-similar-trees) |
 ## Backtracking
 |  |
