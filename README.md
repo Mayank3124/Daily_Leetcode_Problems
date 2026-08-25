@@ -51,6 +51,7 @@
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -106,6 +107,7 @@
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -577,4 +579,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
