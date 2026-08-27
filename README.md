@@ -131,6 +131,7 @@
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -247,6 +248,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
