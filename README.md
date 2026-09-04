@@ -80,6 +80,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -286,6 +287,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String Matching
 |  |
 | ------- |
