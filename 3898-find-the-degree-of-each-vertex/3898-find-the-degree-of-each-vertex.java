@@ -5,7 +5,7 @@ class Solution {
         for(int[] i : matrix){
             int cnt = 0;
             for(int j : i){
-                if(j==1) cnt++;
+                cnt+=j;
             }
             ans[idx] = cnt;
             idx++;
