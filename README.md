@@ -87,6 +87,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -471,6 +472,7 @@
 | [2485-find-the-pivot-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
