@@ -67,6 +67,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1854-maximum-population-year](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -342,6 +343,7 @@
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1854-maximum-population-year](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -468,6 +470,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1854-maximum-population-year](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
