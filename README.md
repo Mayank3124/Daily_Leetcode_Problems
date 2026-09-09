@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -598,6 +600,7 @@
 | [0039-combination-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
