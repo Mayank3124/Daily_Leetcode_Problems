@@ -23,7 +23,6 @@ class Solution {
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 int neigh = countNeighbor(i,j,board);
-                System.out.println(neigh);
                 if( (neigh < 2 || neigh > 3) && board[i][j]==1) board[i][j] = -1;
                 if(board[i][j]==0 && neigh == 3) board[i][j] = 2;
             }
