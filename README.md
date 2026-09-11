@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -296,6 +298,7 @@
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
