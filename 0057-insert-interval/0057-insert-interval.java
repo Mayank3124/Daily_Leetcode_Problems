@@ -22,7 +22,6 @@ class Solution {
             return list.toArray(new int[list.size()][]);
         }
         
-        System.out.print(idx);
         int start = Math.min(intervals[idx][0],newInterval[0]);
         int end = Math.max(intervals[idx][1],newInterval[1]);
 
