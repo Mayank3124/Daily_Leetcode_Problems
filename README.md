@@ -13,6 +13,7 @@
 | [0047-permutations-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -311,6 +312,7 @@
 | [0015-3sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
@@ -645,4 +647,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0572-subtree-of-another-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
