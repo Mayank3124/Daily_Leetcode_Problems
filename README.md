@@ -47,6 +47,7 @@
 | [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +119,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
