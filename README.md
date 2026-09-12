@@ -270,6 +270,7 @@
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -319,6 +320,7 @@
 | [0049-group-anagrams](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -397,6 +400,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0206-reverse-linked-list) |
@@ -506,6 +510,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
