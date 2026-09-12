@@ -162,6 +162,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3174-clear-digits) |
 ## Stack
@@ -280,6 +281,7 @@
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
