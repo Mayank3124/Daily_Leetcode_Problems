@@ -9,10 +9,10 @@ class Solution {
             if(isVowel(s.charAt(i))){
                 cnt++;
             }
-            if(i >= k){
-                if(isVowel(s.charAt(i-k))){
-                    cnt--;
-                }
+            if(i >= k && isVowel(s.charAt(i-k))){
+                
+                cnt--;
+                
             }
             
             max = Math.max(max,cnt);
