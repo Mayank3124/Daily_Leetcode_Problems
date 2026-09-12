@@ -4,10 +4,10 @@ class Solution {
         int t = 0;
         for(int type : candyType){
             set.add(type);
-            t++;
+            
         }
 
-        return Math.min(t/2,set.size());
+        return Math.min(candyType.length/2,set.size());
         
     }
 }
