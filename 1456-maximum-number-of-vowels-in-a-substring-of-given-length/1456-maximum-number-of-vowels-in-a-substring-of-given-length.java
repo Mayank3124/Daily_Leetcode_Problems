@@ -14,7 +14,7 @@ class Solution {
                     cnt--;
                 }
             }
-            if(cnt == k) return k;
+            
             max = Math.max(max,cnt);
             
         }
