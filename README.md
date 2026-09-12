@@ -409,6 +409,7 @@
 | [0206-reverse-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
