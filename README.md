@@ -57,6 +57,7 @@
 | [0658-find-k-closest-elements](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
@@ -328,6 +329,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -407,6 +409,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
@@ -603,6 +606,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1302-deepest-leaves-sum) |
@@ -661,6 +665,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
