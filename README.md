@@ -65,6 +65,7 @@
 | [0888-fair-candy-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -180,6 +181,7 @@
 | [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -423,6 +426,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
