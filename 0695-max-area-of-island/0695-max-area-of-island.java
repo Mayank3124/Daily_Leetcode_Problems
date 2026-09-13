@@ -5,19 +5,19 @@ class Solution {
 
         check[i][j] = true;
 
-        int[][] dir = {{0,1},{1,0},{0,-1},{-1,0}};
+        int[][] dirs = {{0,1},{1,0},{0,-1},{-1,0}};
 
-        int size = 0;
+        int size = 1;
 
-        for(int k = 0; k < 4; k++){
-            int newM = i + dir[k][0];
-            int newN = j + dir[k][1];
+        for(int[] dir : dirs){
+            int newM = i + dir[0];
+            int newN = j + dir[1];
             if(newM >= 0 && newM < m && newN >= 0 && newN < n && !check[newM][newN] && grid[newM][newN]==1){
                 size += helper(grid,newM,newN,check);
             }
         }
 
-        return size+1;
+        return size;
     }
     public int maxAreaOfIsland(int[][] grid) {
         boolean[][] check = new boolean[grid.length][grid[0].length];
