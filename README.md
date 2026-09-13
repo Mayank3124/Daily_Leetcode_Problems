@@ -305,6 +305,7 @@
 | [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -431,6 +432,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
