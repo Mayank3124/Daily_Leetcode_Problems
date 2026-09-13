@@ -406,6 +406,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
@@ -596,6 +597,7 @@
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
@@ -650,6 +652,7 @@
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0547-number-of-provinces](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
@@ -683,6 +686,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
