@@ -422,6 +422,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -638,6 +639,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
@@ -687,4 +689,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
