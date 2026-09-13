@@ -1,9 +1,9 @@
 class Solution {
-    public int helper(int[][] grid, int i, int j, boolean[][] check){
+    public int helper(int[][] grid, int i, int j){
         int m = grid.length;
         int n = grid[0].length;
 
-        check[i][j] = true;
+        grid[i][j] = 0;
 
         int[][] dirs = {{0,1},{1,0},{0,-1},{-1,0}};
 
@@ -12,23 +12,22 @@ class Solution {
         for(int[] dir : dirs){
             int newM = i + dir[0];
             int newN = j + dir[1];
-            if(newM >= 0 && newM < m && newN >= 0 && newN < n && !check[newM][newN] && grid[newM][newN]==1){
-                size += helper(grid,newM,newN,check);
+            if(newM >= 0 && newM < m && newN >= 0 && newN < n && grid[newM][newN]==1){
+                size += helper(grid,newM,newN);
             }
         }
 
         return size;
     }
     public int maxAreaOfIsland(int[][] grid) {
-        boolean[][] check = new boolean[grid.length][grid[0].length];
-
+        
         int max = 0;
 
         for(int i = 0; i < grid.length; i++ ){
             for(int j = 0; j < grid[0].length; j++){
-                if(!check[i][j] && grid[i][j]==1){
+                if( grid[i][j]==1){
                     
-                    max = Math.max(max,helper(grid,i,j,check));
+                    max = Math.max(max,helper(grid,i,j));
                 }
             }
         }
