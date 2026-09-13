@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
@@ -314,6 +316,7 @@
 | [0036-valid-sudoku](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
