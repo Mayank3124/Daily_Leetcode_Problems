@@ -22,7 +22,10 @@ class Solution {
     }
     public int largestIsland(int[][] grid) {
 
-        HashMap<Integer,Integer> map = new HashMap<>();
+        //HashMap<Integer,Integer> map = new HashMap<>();
+        List<Integer> list = new ArrayList<>();
+        list.add(0);
+        list.add(1);
 
         int id = 2;
         int n = grid.length;
@@ -31,7 +34,7 @@ class Solution {
             for(int j = 0; j < n; j++){
                 if(grid[i][j]==1){
                     int s = size(grid,i,j,id);
-                    map.put(id,s);
+                    list.add(s);
                     max = Math.max(max,s);
                     id++;
                 }
@@ -49,7 +52,7 @@ class Solution {
                         int newN = j + dir[1];
                         if(check(n,newM,newN) && grid[newM][newN] != 0 && !visited[grid[newM][newN]]){
                             visited[grid[newM][newN]] = true; 
-                            sum += map.get(grid[newM][newN]);
+                            sum += list.get(grid[newM][newN]);
                         }
                     }
                     max = Math.max(sum,max);
