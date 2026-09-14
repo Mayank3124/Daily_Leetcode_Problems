@@ -1,6 +1,5 @@
 class Solution {
     public int size(int[][] grid,int i,int j, int id){
-        int m = grid.length;
         int n = grid[0].length;
 
         grid[i][j] = id;
@@ -11,7 +10,7 @@ class Solution {
         for(int[] dir : dirs){
             int newM = i + dir[0];
             int newN = j + dir[1];
-            if(newM >= 0 && newM < m && newN >= 0 && newN < n && grid[newM][newN] == 1 ){
+            if(newM >= 0 && newM < n && newN >= 0 && newN < n && grid[newM][newN] == 1 ){
                 size += size(grid,newM,newN,id);
             }
         }
