@@ -4,6 +4,7 @@ class Solution {
 
         for(int[] trip : trips){
             int pass = trip[0];
+            if(pass > capacity) return false;
             fre[trip[1]] += pass;
             fre[trip[2]] -= pass;
         }
