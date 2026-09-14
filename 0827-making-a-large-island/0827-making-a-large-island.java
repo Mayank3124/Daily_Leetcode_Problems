@@ -31,8 +31,9 @@ class Solution {
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
                 if(grid[i][j]==1){
-                    map.put(id,size(grid,i,j,id));
-                    max = Math.max(max,map.get(id));
+                    int s = size(grid,i,j,id);
+                    map.put(id,s);
+                    max = Math.max(max,s);
                     id++;
                 }
             }
