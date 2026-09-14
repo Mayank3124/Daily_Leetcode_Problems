@@ -10,7 +10,7 @@ class Solution {
 
         if(fre[0]>capacity) return false;
         for(int i = 1; i < 1001; i++){
-            fre[i] = fre[i]+fre[i-1];
+            fre[i] += fre[i-1];
             if(fre[i]>capacity) return false;
         }
         return true;
