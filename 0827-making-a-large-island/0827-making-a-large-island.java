@@ -50,7 +50,7 @@ class Solution {
                     for(int[] dir : dirs){
                         int newM = i + dir[0];
                         int newN = j + dir[1];
-                        if(check(n,newM,newN) && grid[newM][newN] != 0 && !visited[grid[newM][newN]]){
+                        if(check(n,newM,newN) && !visited[grid[newM][newN]]){
                             visited[grid[newM][newN]] = true; 
                             sum += list.get(grid[newM][newN]);
                         }
