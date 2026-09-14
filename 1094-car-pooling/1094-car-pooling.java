@@ -9,7 +9,7 @@ class Solution {
         }
 
         if(fre[0]>capacity) return false;
-        for(int i = 1; i < 1001; i++){
+        for(int i = 1; i < 1000; i++){
             fre[i] += fre[i-1];
             if(fre[i]>capacity) return false;
         }
