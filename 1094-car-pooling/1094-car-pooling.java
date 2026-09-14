@@ -3,8 +3,9 @@ class Solution {
         int[] fre = new int[1001];
 
         for(int[] trip : trips){
-            fre[trip[1]] += trip[0];
-            fre[trip[2]] -= trip[0];
+            int pass = trip[0];
+            fre[trip[1]] += pass;
+            fre[trip[2]] -= pass;
         }
 
         if(fre[0]>capacity) return false;
