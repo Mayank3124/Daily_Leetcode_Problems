@@ -24,6 +24,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -326,6 +327,7 @@
 | [0054-spiral-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
@@ -409,6 +411,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
@@ -599,6 +602,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
@@ -654,6 +658,7 @@
 | [0112-path-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
