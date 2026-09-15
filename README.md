@@ -68,6 +68,7 @@
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
@@ -341,6 +342,7 @@
 | [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -631,6 +633,7 @@
 | [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1302-deepest-leaves-sum) |
