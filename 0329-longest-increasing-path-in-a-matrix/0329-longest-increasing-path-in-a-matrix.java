@@ -31,7 +31,7 @@ class Solution {
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 int key = i*n + j;
-                int val = map.getOrDefault(i*n + j,-1);
+                int val = map.getOrDefault(key,-1);
                 if(val == -1){
                     val = maxPath(grid,i,j,map);
                     map.put(key,val);
