@@ -88,6 +88,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -343,6 +344,7 @@
 | [1254-number-of-closed-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
@@ -470,6 +472,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -632,6 +635,7 @@
 | [1254-number-of-closed-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -696,6 +700,7 @@
 | [1254-number-of-closed-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -725,6 +730,7 @@
 | [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String Matching
 |  |
@@ -751,8 +757,10 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
