@@ -221,6 +221,7 @@
 | [0002-add-two-numbers](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -478,6 +479,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -776,4 +778,8 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
