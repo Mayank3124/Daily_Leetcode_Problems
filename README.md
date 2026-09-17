@@ -26,6 +26,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
@@ -487,6 +488,7 @@
 | [0063-unique-paths-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
