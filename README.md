@@ -20,6 +20,7 @@
 | [0057-insert-interval](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -340,6 +341,7 @@
 | [0054-spiral-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
@@ -483,6 +485,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
