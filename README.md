@@ -232,6 +232,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -490,6 +491,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Number Theory
@@ -640,6 +642,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
@@ -790,4 +793,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
