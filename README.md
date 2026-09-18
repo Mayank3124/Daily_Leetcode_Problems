@@ -90,6 +90,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1854-maximum-population-year](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1854-maximum-population-year) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -238,6 +239,7 @@
 | [0441-arranging-coins](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -424,6 +426,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -593,6 +596,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bracket Sequences
 |  |
@@ -741,6 +745,7 @@
 | [0216-combination-sum-iii](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -795,6 +800,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Knapsack Problem
 |  |
 | ------- |
