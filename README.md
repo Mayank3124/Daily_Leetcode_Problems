@@ -78,6 +78,7 @@
 | [0997-find-the-town-judge](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1046-last-stone-weight) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1094-car-pooling](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1094-car-pooling) |
 | [1254-number-of-closed-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -217,6 +218,7 @@
 | [0409-longest-palindrome](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
