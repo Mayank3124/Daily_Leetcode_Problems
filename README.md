@@ -189,6 +189,7 @@
 | [1768-merge-strings-alternately](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 | [3174-clear-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
