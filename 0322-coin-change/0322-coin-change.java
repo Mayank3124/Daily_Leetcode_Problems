@@ -14,8 +14,9 @@ class Solution {
             while(size-- > 0){
                 int amt = q.remove();
                 for(int coin : coins){
-                    if(coin == amt) return numCoins;
                     int next = amt - coin;
+                    if(next == 0) return numCoins;
+                    
                     if(next > 0 && !visited[next]) {
                         q.add(amt - coin);
                         visited[next] = true;
