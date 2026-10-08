@@ -71,6 +71,7 @@
 | [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -513,6 +514,7 @@
 | [0322-coin-change](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Number Theory
 |  |
