@@ -5,14 +5,15 @@ class Solution {
         }
         Arrays.sort(nums);
         long sum = 0;
-        int i = nums.length-1;
-        while(i >= nums.length/2){
-            sum += nums[i];
-            i--;
+        int i = 0;
+        int j = nums.length-1;
+        while(i < j){
+            sum += (nums[j]-nums[i]);
+            i++;
+            j--;
         }
-        while(i >= 0){
-            sum -= nums[i];
-            i--;
+        if(i == j){
+            return sum + nums[i];
         }
         return sum;
 
