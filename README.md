@@ -75,6 +75,7 @@
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -340,6 +341,7 @@
 | [0258-add-digits](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -371,6 +373,7 @@
 | [0695-max-area-of-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
