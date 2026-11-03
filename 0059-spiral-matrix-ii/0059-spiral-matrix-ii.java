@@ -1,22 +1,36 @@
 class Solution {
-    public void helper(int[][] res, int[][] dir, int idx, int num, int i, int j, int n){
-        res[i][j] = num;
-
-        if(i + dir[idx][0] >= 0 && i + dir[idx][0] < n && j + dir[idx][1] >= 0 && j + dir[idx][1] < n && res[i + dir[idx][0]][j + dir[idx][1]]==0){
-            helper(res,dir,idx,num+1,i + dir[idx][0],j + dir[idx][1],n);
-        }
-        idx = (idx+1)%4;
-        if(i + dir[idx][0] >= 0 && i + dir[idx][0] < n && j + dir[idx][1] >= 0 && j + dir[idx][1] < n && res[i + dir[idx][0]][j + dir[idx][1]]==0){
-            helper(res,dir,idx,num+1,i + dir[idx][0],j + dir[idx][1],n);
-        } 
-
-
-    }
     public int[][] generateMatrix(int n) {
-        int[][] res = new int[n][n];
-        int[][] dir = {{0,1},{1,0},{0,-1},{-1,0}};
-        helper(res,dir,0,1,0,0,n);
-        return res;
+        int[][] ans = new int[n][n];
+        int StartRow = 0;
+        int endCol = n-1;
+        int endRow = n-1;
+        int StartCol = 0;
+        int num = 1;
 
+        while(StartRow <= endRow && StartCol <= endCol){
+
+            for(int i = StartCol; i <= endCol; i++){
+                ans[StartRow][i] = num++;
+            }
+            StartRow++;
+
+            for(int i = StartRow; i <= endRow; i++){
+                ans[i][endCol] = num++;
+            }
+            endCol--;
+
+            if(StartRow > endRow || StartCol > endCol) break;
+
+            for(int i = endCol; i >= StartCol; i--){
+                ans[endRow][i] = num++;
+            }
+            endRow--;
+
+            for(int i = endRow; i >= StartRow; i--){
+                ans[i][StartCol] = num++;
+            }
+            StartCol++;
+        }
+        return ans;
     }
 }
