@@ -841,4 +841,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mayank3124/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
